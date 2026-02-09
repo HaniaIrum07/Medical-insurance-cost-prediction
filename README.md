@@ -1,0 +1,1 @@
+This project focuses on predicting medical insurance costs using Linear Regression, a supervised machine learning algorithm. The aim is to analyze how different factors such as age, BMI, smoking habits, and region influence healthcare insurance charges. This project uses linear regression to predict the future charges.
